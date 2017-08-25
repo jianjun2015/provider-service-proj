@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="proj-service-biz" />
+        <module name="proj-service-dal" />
+        <module name="proj-service-facade" />
+        <module name="proj-service-schedule" />
+        <module name="proj-service-service" />
+        <module name="proj-service-test" />
+        <module name="proj-service-util" />
+        <module name="proj-service-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="proj-service-biz" target="1.8" />
+      <module name="proj-service-dal" target="1.8" />
+      <module name="proj-service-facade" target="1.8" />
+      <module name="proj-service-schedule" target="1.8" />
+      <module name="proj-service-service" target="1.8" />
+      <module name="proj-service-test" target="1.8" />
+      <module name="proj-service-util" target="1.8" />
+      <module name="proj-service-web" target="1.8" />
+      <module name="provider-service-proj" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

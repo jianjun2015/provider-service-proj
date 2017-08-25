@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/proj-service-biz/proj-service-biz.iml" filepath="$PROJECT_DIR$/proj-service-biz/proj-service-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-dal/proj-service-dal.iml" filepath="$PROJECT_DIR$/proj-service-dal/proj-service-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-facade/proj-service-facade.iml" filepath="$PROJECT_DIR$/proj-service-facade/proj-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-schedule/proj-service-schedule.iml" filepath="$PROJECT_DIR$/proj-service-schedule/proj-service-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-service/proj-service-service.iml" filepath="$PROJECT_DIR$/proj-service-service/proj-service-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-test/proj-service-test.iml" filepath="$PROJECT_DIR$/proj-service-test/proj-service-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-util/proj-service-util.iml" filepath="$PROJECT_DIR$/proj-service-util/proj-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-service-web/proj-service-web.iml" filepath="$PROJECT_DIR$/proj-service-web/proj-service-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-service-proj.iml" filepath="$PROJECT_DIR$/provider-service-proj.iml" />
+    </modules>
+  </component>
+</project>

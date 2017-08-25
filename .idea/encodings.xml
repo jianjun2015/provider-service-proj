@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-dal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-schedule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-service-web" charset="UTF-8" />
+  </component>
+</project>

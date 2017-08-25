@@ -1,0 +1,3 @@
+service\info\App.class
+service\info\dal\dao\TUserMapper.class
+service\info\dal\module\TUser.class

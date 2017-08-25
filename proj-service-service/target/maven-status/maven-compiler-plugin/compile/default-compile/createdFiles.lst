@@ -1,0 +1,4 @@
+service\info\entity\User.class
+service\info\service\demo\UserService.class
+service\info\App.class
+service\info\service\demo\impl\UserServiceImpl.class
